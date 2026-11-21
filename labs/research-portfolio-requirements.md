@@ -35,6 +35,23 @@
 
 # My Analysis
 
+## Part 1
+
+### Step 1 - Search for data analyst portfolios
+
+- Here some data science portfolios I found:
+  - https://mgnovandri.my.canva.site/
+  - https://jameskle.com/data-portfolio
+  - https://natassha.github.io/natasshaselvaraj/
+
+- I just reviewed some of them. They look like normal blogs to me for now. Almost all of them has a personal website and represent their portfolio with it.
+
+### Step 2 - List possible projects
+
+- Some highlighted ones: UBER PRICING OPTIMIZATION IN NEW YORK CITY, Classifying Tweets with Weights & Biases.
+
+- 
+
 # Reflection Questions
 
 # Challenge Activities
