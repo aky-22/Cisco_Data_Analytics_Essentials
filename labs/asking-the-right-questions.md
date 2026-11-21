@@ -8,6 +8,10 @@
 
 ## Scenario
 
+1. Choose a topic you are insterested in.
+2. Formulate a question that you wonder.
+3. Make hypothesis.
+
 ## Instructions
 
 ### Part 1
