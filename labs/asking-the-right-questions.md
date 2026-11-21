@@ -3,13 +3,13 @@
 ## Objectives
 
 - Choose a topic to investigate.
-- Formulate a question to answer the analysis.
+- Formulate a question to guide the analysis.
 - Determine the data elements that are needed to find the answers.
 
 ## Scenario
 
-1. Choose a topic you are insterested in.
-2. Formulate a question that you wonder.
+1. Choose a topic you are interested in.
+2. Formulate a question that you are curious about.
 3. Make hypothesis.
 
 ## Instructions
@@ -23,6 +23,9 @@
 
 ### Determine the Data Needed
 
--
+# My Analysis
 
-I choose financial investment markets as a topic.
+- I choose financial investment markets as a topic.
+- I asked the question "What was the most profitable investment last year?".
+- I would invest and understand the market better this year.
+- Diagnostic analytics.
