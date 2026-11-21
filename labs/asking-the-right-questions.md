@@ -14,6 +14,15 @@
 
 ## Instructions
 
-### Part 1
+### Ask a Question
 
-#### Determine a Topic
+- What's your topic?
+- What's your question?
+- What is the benefit of determining the answer to this question?
+- What type of analysis do you think fits best to uncover the answer to your question out of 4 different types of analysis?
+
+### Determine the Data Needed
+
+-
+
+I choose financial investment markets as a topic.
